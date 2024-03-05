@@ -1,6 +1,6 @@
 # Привет, меня зовут Алия
 
-(![avatar1313463605](https://github.com/AliyaDil/Aliya/assets/162280491/9618594e-f57d-421b-9ce6-dfd2d511ad8b)
+[avatar1313463605](https://github.com/AliyaDil/Aliya/assets/162280491/9618594e-f57d-421b-9ce6-dfd2d511ad8b)
 
 
 ## Обо мне
